@@ -6,7 +6,7 @@ h
 <p>Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="20"/></br></br>
 I'm a software developer with over a year of experience in frontend development, primarily working with React and related technologies. I'm currently expanding my expertise into backend development as well. I'm a self-learner who enjoys constantly improving and sharing knowledge. Let's connect and create amazing things together!</p>
 
-### :link: &nbsp;My Tecnology Stack
+### 🛠 &nbsp;My Tecnology Stack
 >Frontend
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -29,7 +29,7 @@ I'm a software developer with over a year of experience in frontend development,
 ![Static Badge](https://img.shields.io/badge/SqlServer-black?style=flat&logo=amazondynamodb)
 
 
-### :link: &nbsp;A brief overview of my GitHub journey
+### 📝 &nbsp;A brief overview of my GitHub journey
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroBozzeta&layout=compact&hide=TSQL&theme=great-gatsby"></p>
 
 ### :link: &nbsp;Connect with me
@@ -41,7 +41,7 @@ I'm a software developer with over a year of experience in frontend development,
  
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=color=0:000,100:FD4F00FF&text=(>‿◠)✌&reversal=false&section=footer&fontAlign=50&animation=twinkling&textBg=false&fontSize=30&fontAlignY=66&strokeWidth=0" style="width: 100%;"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=color=0:000,100:FD4F00FF&text=(>‿◠)✌&reversal=false&section=footer&fontAlign=50&animation=twinkling&textBg=false&fontSize=30&fontAlignY=75&strokeWidth=0" style="width: 100%;"/>
 <!--
 **PedroBozzeta/PedroBozzeta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
