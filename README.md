@@ -1,8 +1,8 @@
-<h2 align="center">Hi! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"</h2>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&size=28&duration=3000&pause=1000&color=F7873B&center=true&vCenter=true&width=600&height=100&lines=My+name+is+Pedro+Bozzeta.;And+I'm+a+software+developer.;Let's+build+fun+things!" alt="Typing SVG" /></a>
+<img src="https://github.com/PedroBozzeta/PedroBozzeta/blob/main/public/img/doblezeta-banner.png" alt="Header"  width="1200"/>
 
-<img src="https://github.com/PedroBozzeta/PedroBozzeta/public/img/doblezeta-banner.png" alt="Header"  width="1200"/>
+<a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&size=28&duration=3000&pause=1000&color=F7873B&center=true&vCenter=true&width=600&height=100&lines=My+name+is+Pedro+Bozzeta.;And+I'm+a+software+developer.;Let's+build+fun+things!" alt="Typing SVG" /></a>
+
 <!--
 **PedroBozzeta/PedroBozzeta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
