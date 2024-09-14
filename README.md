@@ -1,8 +1,13 @@
 
-<img src="https://github.com/PedroBozzeta/PedroBozzeta/blob/main/public/img/doblezeta-banner.png" alt="Header"  width="1200"/>
+<img src="https://github.com/PedroBozzeta/PedroBozzeta/blob/main/public/img/doblezeta-banner.png" alt="Banner"   style="width: 100%;"/>
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&size=28&duration=3000&pause=1000&color=fd4f00&center=true&vCenter=true&width=600&height=100&lines=My+name+is+Pedro+Bozzeta.;And+I'm+a+software+developer.;Let's+build+fun+things!" alt="Typing SVG" /></a></div>
 
-<a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&size=28&duration=3000&pause=1000&color=F7873B&center=true&vCenter=true&width=600&height=100&lines=My+name+is+Pedro+Bozzeta.;And+I'm+a+software+developer.;Let's+build+fun+things!" alt="Typing SVG" /></a>
+<p>Hi there!</br></br>
+I'm a software developer with over a year of experience in frontend development, primarily working with React and related technologies. I'm currently expanding my expertise into backend development as well. I'm a self-learner who enjoys constantly improving and sharing knowledge. Let's connect and create amazing things together!</p>
 
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=307&color=color=0:000,100:FD4F00&reversal=false&section=footer&fontAlign=49&animation=twinkling&textBg=false" style="width: 100%;"/>
 <!--
 **PedroBozzeta/PedroBozzeta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
