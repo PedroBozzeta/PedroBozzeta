@@ -30,7 +30,12 @@ I'm a software developer with over a year of experience in frontend development,
 
 
 ### 📝 &nbsp;A brief overview of my GitHub journey
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroBozzeta&layout=compact&hide=TSQL&theme=great-gatsby"></p>
+<div style="display: flex; flex-direction: column; align-items: center;" align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroBozzeta&layout=compact&hide=TSQL&theme=great-gatsby" style="height: 200px;" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=PedroBozzeta&theme=great-gatsby" style="height: 200px;" alt="GitHub Streak" />
+</div>
+
+
 
 ### :link: &nbsp;Connect with me
 <div align="center">
