@@ -27,6 +27,7 @@ I'm a software developer with over a year of experience in frontend development,
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
 ![Static Badge](https://img.shields.io/badge/SqlServer-black?style=flat&logo=amazondynamodb)
+![Static Badge](https://img.shields.io/badge/RubyOnRails-black?style=flat&logo=ruby)
 
 
 ### 📝 &nbsp;A brief overview of my GitHub journey
